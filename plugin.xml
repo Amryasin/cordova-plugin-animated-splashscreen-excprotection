@@ -18,7 +18,7 @@
   under the License.
 -->
 
-<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="cordova-plugin-animated-splashscreen-innovation" version="1.0.0">
+<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0" id="cordova-plugin-animated-splashscreen-excprotection" version="1.0.0">
     <name>AnimatedSplashScreen</name>
     <description>Cordova Animated Splashscreen Plugin</description>
     <license>Apache 2.0</license>
