@@ -1,7 +1,7 @@
 cordova-plugin-animated-splashscreen-excprotection
 ============================
 Animated Splash Screen Plugin
-
+[This Plugin](https://www.npmjs.com/package/cordova-plugin-animated-splashscreen) is the real plugin cordova-plugin-animated-splashscreen i just do som edit on it 
 Based on 
 [cordova-custom-config plugin](https://github.com/dpa99c/cordova-custom-config)
 and 
@@ -57,6 +57,10 @@ IOS Images paths:
 `...</platform>`
 `
 #### Android
+Time For Each Image 
+in confige.xml
+`<preference name="AnimatedSplashScreenAndroidTimeoutValue" value="120" />`
+
 
 Android Images Order:
 
@@ -103,11 +107,3 @@ XXXHDPI:
 * Portrait: 1280 x 1920 px
 * Landscape: 1920 x 1280 px
 
-## What's new
- - 1.0.0 - initial code, added iOS support
- - 1.0.1 - added config params, updated iOS platform
- - 1.0.2 - added Android source
- - 1.0.4 - optimized Android source
- - 1.0.8 - updated Android theme
- - 1.1.0 - stable version with iOS and Android support
- - 1.1.2 - Android image paths fixes
