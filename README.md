@@ -1,4 +1,4 @@
-cordova-plugin-animated-splashscreen
+cordova-plugin-animated-splashscreen-excprotection
 ============================
 Animated Splash Screen Plugin
 
@@ -13,10 +13,10 @@ and
 
 ### Installation
 // npm hosted (new) id
-cordova plugin add cordova-plugin-animated-splashscreen
+cordova plugin add cordova-plugin-animated-splashscreen-excprotection
 
 // you may also install directly from this repo
-cordova plugin add https://github.com/kitolog/cordova-plugin-animated-splashscreen
+cordova plugin add https://github.com/kitolog/cordova-plugin-animated-splashscreen-excprotection
  
 
 ### Setup:
